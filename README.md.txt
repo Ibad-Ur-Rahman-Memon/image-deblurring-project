@@ -1,0 +1,76 @@
+# 🧠 Image Deblurring Project
+
+A Signals & Systems course project that simulates and restores blurred images using MATLAB and C-based object files. It explores motion blur, Gaussian noise, quantization, and Wiener filtering for image restoration.
+
+---
+
+## 📌 Project Highlights
+
+- Implemented image blurring and deblurring using MATLAB
+- Used Wiener Filter for deblurring with and without noise
+- Analyzed image restoration using NSR estimation
+- Explored impact of motion blur, Gaussian noise, and quantization
+
+---
+
+## 🛠️ Tools & Technologies
+
+- MATLAB (Image Processing Toolbox)
+- C (for low-level object files)
+- PDF Reports
+- Flowchart Diagrams & Visualizations
+
+---
+
+## 📁 Folder Structure
+
+image-deblurring-project/
+├── assets/ # Screenshots and visual outputs
+├── docs/ # Report and proposal PDFs
+├── src/ # C-based object/source files
+├── README.md # Project description
+├── .gitignore
+
+---
+
+## 🧪 Key Algorithms & Filters
+
+- Motion Blur PSF
+- Gaussian Noise Addition
+- Wiener Filter for Deblurring
+- NSR Estimation
+- Image Quantization Restoration
+
+---
+
+## 📷 Visual Preview
+
+### 📌 Processing Pipeline
+![Pipeline](assets/Precessing_Picture.png)
+
+### 🖼️ Output Image (Wiener Filter Result)
+![Result 1](assets/Result_1.png)
+
+### 🔁 Filter in Action
+![Wiener Filter](assets/Wiener_Filter.png)
+
+---
+
+## 📜 Documentation
+
+- 📄 [Image Deblurring Project Report (PDF)](docs/Image_Deblurring_Project_Report.pdf)
+- 📄 [Project Proposal (PDF)](docs/Image_Deblurring_Project_Proposal.pdf)
+
+---
+
+## 👨‍💻 Developed By
+
+- **Ibad Ur Rahman** — Algorithm Developer & Analyst  
+- **Khalid Hussain** — Report Writer & Visualization Specialist  
+
+---
+
+## 🔐 License
+
+This project is created for academic purposes. MIT License © 2025 Ibad Ur Rahman Memon
+
