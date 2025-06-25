@@ -1,6 +1,9 @@
 # 🧠 Image Deblurring Project
 
-A Signals & Systems course project that simulates and restores blurred images using MATLAB and C-based object files. It explores motion blur, Gaussian noise, quantization, and Wiener filtering for image restoration.
+[![MATLAB](https://img.shields.io/badge/Language-MATLAB-orange)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+A Signals & Systems course project that simulates and restores blurred images using MATLAB. It explores motion blur, Gaussian noise, quantization, and Wiener filtering for image restoration.
 
 ---
 
@@ -16,21 +19,22 @@ A Signals & Systems course project that simulates and restores blurred images us
 ## 🛠️ Tools & Technologies
 
 - MATLAB (Image Processing Toolbox)
-- C (for low-level object files)
+- (Optional) C source files included for experimentation
 - PDF Reports
 - Flowchart Diagrams & Visualizations
 
 ---
-
 ## 📁 Folder Structure
 
+```plaintext
 image-deblurring-project/
-├── assets/ # Screenshots and visual outputs
-├── docs/ # Report and proposal PDFs
-├── src/ # C-based object/source files
-├── README.md # Project description
+├── assets/         # Screenshots and visual outputs
+├── docs/           # Report and proposal PDFs
+├── src/            # (optional source files)
+├── README.md       # Project description
 ├── .gitignore
 
+```
 ---
 
 ## 🧪 Key Algorithms & Filters
@@ -53,6 +57,13 @@ image-deblurring-project/
 
 ### 🔁 Filter in Action
 ![Wiener Filter](assets/Wiener_Filter.png)
+---
+## 🚀 How to Run
+
+1. Open the MATLAB `.m` script from the `src/` folder.
+2. Make sure the image path is correct in the script.
+3. Run the script to simulate blur and apply Wiener filtering.
+
 
 ---
 
